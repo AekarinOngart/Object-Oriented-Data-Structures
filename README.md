@@ -1,4 +1,4 @@
-# Data-Structure-and-Algorith
+# Object-Oriented-Data-Structures
 
 01076109 OBJECT ORIENTED DATA STRUCTURES
 
