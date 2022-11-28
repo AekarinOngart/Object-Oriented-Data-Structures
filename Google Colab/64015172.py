@@ -89,7 +89,7 @@ print(valid_parentheses("()()(((())))"))
 print(valid_parentheses("()"))
 
 """---
-# ✅ Lab08 : Sorting
+# ✅ Lab08 : Binary and Sequential Search
 
 ใบงาน : https://classroom.google.com/u/0/c/NDk3MTYxNzU2NDgy/a/NTYwODU1MDM1OTA0/details
 
